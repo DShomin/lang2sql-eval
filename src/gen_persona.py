@@ -6,7 +6,7 @@ from datahub_cls.metadata_fetcher import (
     get_all_tables_info,
 )
 
-from utils import save_persona_json
+from utils import save_persona_json, pretty_print_persona
 from persona_class import PersonaList
 
 
@@ -52,6 +52,7 @@ def main():
     fetcher = DatahubMetadataFetcher(gms_server=os.getenv("DATAHUB_SERVER"))
     tables_df = get_all_tables_info(fetcher)
     personas = generate_persona(tables_df)
+    print(pretty_print_persona(personas))
     save_persona_json(personas, "data/personas.json")
 
 
