@@ -1,0 +1,21 @@
+{
+    "questions": [
+        "최근 30일 동안의 리드 생성 활동 데이터를 보여줘.",
+        "특정 캠페인에 대한 고객 참여율은 어떻게 되나요?",
+        "내 고객 목록에서 가장 높은 관심을 보인 잠재 고객은 누구인가요?",
+        "지난 주에 보낸 이메일의 열람률은 얼마인가요?",
+        "특정 지역에서의 리드 수는 어떻게 되나요?",
+        "고객의 피드백 데이터를 기반으로 어떤 제품이 가장 인기가 있나요?",
+        "내 활동 데이터에서 가장 많은 리드를 생성한 소스는 무엇인가요?",
+        "최근 3개월 동안의 리드 전환율은 어떻게 되나요?",
+        "특정 산업군에서의 잠재 고객 수는 얼마인가요?",
+        "내 고객 목록에서 가장 오래된 리드는 누구인가요?"
+    ],
+    "questions_md": "- 최근 30일 동안의 리드 생성 활동 데이터를 보여줘.\n- 특정 캠페인에 대한 고객 참여율은 어떻게 되나요?\n- 내 고객 목록에서 가장 높은 관심을 보인 잠재 고객은 누구인가요?\n- 지난 주에 보낸 이메일의 열람률은 얼마인가요?\n- 특정 지역에서의 리드 수는 어떻게 되나요?\n- 고객의 피드백 데이터를 기반으로 어떤 제품이 가장 인기가 있나요?\n- 내 활동 데이터에서 가장 많은 리드를 생성한 소스는 무엇인가요?\n- 최근 3개월 동안의 리드 전환율은 어떻게 되나요?\n- 특정 산업군에서의 잠재 고객 수는 얼마인가요?\n- 내 고객 목록에서 가장 오래된 리드는 누구인가요?",
+    "persona": {
+        "name": "Bob Smith",
+        "department": "Sales",
+        "role": "Sales Development Representative",
+        "background": "Bob is a recent graduate with a degree in marketing. He is focused on generating leads and qualifying prospects. He frequently uses activity data to track engagement and follow up with potential customers."
+    }
+}

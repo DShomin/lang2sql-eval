@@ -1,0 +1,21 @@
+{
+    "questions": [
+        "최근 3개월 동안의 지원 티켓 수는 얼마인가요?",
+        "고객 불만의 주요 원인은 무엇인가요?",
+        "특정 제품에 대한 지원 요청의 추세는 어떻게 되나요?",
+        "지원 팀의 평균 응답 시간은 얼마인가요?",
+        "고객 만족도 조사의 결과는 어떻게 되나요?",
+        "특정 기간 동안 해결된 티켓의 비율은 얼마인가요?",
+        "가장 많이 발생하는 지원 요청 유형은 무엇인가요?",
+        "지원 티켓의 해결 시간에 대한 통계는 어떻게 되나요?",
+        "고객이 가장 많이 문의하는 시간대는 언제인가요?",
+        "지원 요청이 가장 많이 발생하는 지역은 어디인가요?"
+    ],
+    "questions_md": "- 최근 3개월 동안의 지원 티켓 수는 얼마인가요?\n- 고객 불만의 주요 원인은 무엇인가요?\n- 특정 제품에 대한 지원 요청의 추세는 어떻게 되나요?\n- 지원 팀의 평균 응답 시간은 얼마인가요?\n- 고객 만족도 조사의 결과는 어떻게 되나요?\n- 특정 기간 동안 해결된 티켓의 비율은 얼마인가요?\n- 가장 많이 발생하는 지원 요청 유형은 무엇인가요?\n- 지원 티켓의 해결 시간에 대한 통계는 어떻게 되나요?\n- 고객이 가장 많이 문의하는 시간대는 언제인가요?\n- 지원 요청이 가장 많이 발생하는 지역은 어디인가요?",
+    "persona": {
+        "name": "Charlie Brown",
+        "department": "Support",
+        "role": "Support Specialist",
+        "background": "Charlie has a background in technical support and is responsible for resolving customer issues. He uses activity data to monitor support ticket trends and improve response times."
+    }
+}
