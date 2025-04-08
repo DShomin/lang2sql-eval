@@ -1,5 +1,5 @@
 import json
-from persona_class import PersonaList
+from .persona_class import PersonaList
 from glob import glob
 
 
