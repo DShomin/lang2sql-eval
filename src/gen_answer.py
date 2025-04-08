@@ -41,7 +41,7 @@ def get_eval_result(graph):
             )
         result["answers"] = answers
 
-        save_answer_json(result, "data/eval_result", i)
+        save_answer_json(result, "data/q_sql", i)
 
 
 if __name__ == "__main__":
