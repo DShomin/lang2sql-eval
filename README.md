@@ -2,10 +2,7 @@
 
 이 프로젝트는 Text-to-SQL 모델의 평가를 위한 데이터셋을 생성하고 결과를 시각화하는 도구입니다.
 
-# Start of Selection
-<video width="600" controls>
-  <source src="assets/viz_sample_video.mp4" type="video/mp4">
-</video>
+![Lang2SQL 평가 데이터셋 생성 도구 데모](assets/demo.gif)
 
 ## 프로젝트 구조
 ```
