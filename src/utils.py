@@ -10,3 +10,12 @@ def save_persona_json(data, filepath):
 def load_persona_json(filepath):
     with open(filepath, "r", encoding="utf-8") as f:
         return PersonaList(**json.load(f))
+
+
+def pretty_print_persona(persona):
+    return f"""
+    Name: {persona.name}
+    Department: {persona.department}
+    Role: {persona.role}
+    Background: {persona.background}
+    """
