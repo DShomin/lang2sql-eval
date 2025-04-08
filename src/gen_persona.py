@@ -53,7 +53,7 @@ def main():
     tables_df = get_all_tables_info(fetcher)
     personas = generate_persona(tables_df)
     print(pretty_print_persona(personas))
-    save_persona_json(personas, "data/personas.json")
+    save_persona_json(personas, "data/persona/personas.json")
 
 
 if __name__ == "__main__":
